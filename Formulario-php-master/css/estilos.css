@@ -1,0 +1,28 @@
+
+.header{
+    margin:2rem;
+}
+.btn{
+    align-items: center;
+}
+
+.centrar{
+    padding-top: 2rem;
+  text-align: center;
+    
+}
+
+label{
+    font-size: 20px;
+}
+
+
+.registrar{
+    margin-top: 2rem;
+}
+
+
+.mensaje{
+    display: none;
+    font-weight: bold;
+}
